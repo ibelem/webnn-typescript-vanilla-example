@@ -1,0 +1,16 @@
+{
+  "name": "webnn-typescript-vanilla-sample",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@webnn/types": "^0.1.1",
+    "typescript": "~5.7.2",
+    "vite": "^6.3.1"
+  }
+}

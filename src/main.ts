@@ -7,7 +7,10 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <div class="card">
       <button id="webnn" type="button">Check WebNN</button>
     </div>
-    <div id="status" class=""></div>
+    <div id="status"></div>
+    <div>
+      <a href="https://www.npmjs.com/package/@webnn/types">@webnn/types (TypeScript Types Declarations for WebNN)</a>
+    <div>
   </div>
 `;
 

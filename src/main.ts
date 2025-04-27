@@ -9,7 +9,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     </div>
     <div id="status"></div>
     <div>
-      <a href="https://www.npmjs.com/package/@webnn/types">@webnn/types (TypeScript Types Declarations for WebNN)</a>
+      <a href="https://www.npmjs.com/package/@webnn/types">@webnn/types</a> · <a href="https://github.com/ibelem/webnn-typescript-vanilla-example">GitHub</a>
     <div>
   </div>
 `;
